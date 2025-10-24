@@ -1,3 +1,5 @@
 This is a sample test case file with several scenarios to test
 
 Adding test case steps for login
+
+Adding steps for create account screen
